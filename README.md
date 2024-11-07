@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filius</h1>
-<h3 align="center">As the Head of Avionics at Fly Over Space Indonesia (FOS), I lead the development and integration of avionic systems for our spacecraft. I also contribute as a member of the propulsion engineering team, working on cutting-edge propulsion technologies. Additionally, I leverage my skills as a programmer and pentester to enhance our systems' performance and security.</h3>
+<h3 align="center">As the Chief Engineer at Fly Over Space Indonesia (FOS), I lead the development and integration our spacecraft. I also contribute as a member of the IT team, working on Website development & security database. Additionally, I leverage my skills as a programmer and pentester to enhance our systems performance and security.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arteczx&label=Profile%20views&color=0e75b6&style=flat" alt="arteczx" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Math, Physics, Engineering.**
 
-- 📫 How to reach me **spacerheus.id@gmail.com**
+- 📫 How to reach me **callmelius@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
